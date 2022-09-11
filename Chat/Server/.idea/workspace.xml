@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09b52928-7bc4-4cdd-8fee-fc12d5bb59ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../day03/ex02/ex02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../day08/ex01/Service/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../day08/ex02/Service/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ex00/Chat/Client/.idea/Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ex00/Chat/Client/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ex00/Chat/Client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ex00/Chat/Server/.idea/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/src/main/java/app/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/src/main/java/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/src/main/java/client/ReadFromServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client/src/main/java/client/WriteToServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/school21/spring/sockets/app/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/school21/spring/sockets/config/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/school21/spring/sockets/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/school21/spring/sockets/repositories/CrudRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/school21/spring/sockets/repositories/UsersRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/school21/spring/sockets/repositories/UsersRepositoryJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/school21/spring/sockets/server/ClientWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/school21/spring/sockets/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/school21/spring/sockets/services/UsersService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/school21/spring/sockets/services/UsersServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../day08/ex01/Service/src/main/java/school21/spring/service/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../day08/ex01/Service/src/main/java/school21/spring/service/application/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../day08/ex02/Service/src/main/java/school21/spring/service/services/UsersServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../day08/ex02/Service/src/main/java/school21/spring/service/services/UsersServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../day08/ex02/Service/target/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../day08/ex02/Service/target/classes/school21/spring/service/application/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../day08/ex02/Service/target/classes/school21/spring/service/config/ApplicationConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../day08/ex02/Service/target/classes/school21/spring/service/models/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../day08/ex02/Service/target/classes/school21/spring/service/repositories/CrudRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../day08/ex02/Service/target/classes/school21/spring/service/repositories/UsersRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../day08/ex02/Service/target/classes/school21/spring/service/repositories/UsersRepositoryJdbcImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../day08/ex02/Service/target/classes/school21/spring/service/repositories/UsersRepositoryJdbcTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../day08/ex02/Service/target/classes/school21/spring/service/services/UsersService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../day08/ex02/Service/target/classes/school21/spring/service/services/UsersServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../day08/ex02/Service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../day08/ex02/Service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Client/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ex00/Chat/Client/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Client/src/main/java/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ex00/Chat/Client/src/main/java/client/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Client/target/classes/app/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Client/target/classes/client/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Client/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Client/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Client/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Client/target/original-socket-client.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Client/target/socket-client.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Server/target/classes/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Server/target/classes/school21/spring/sockets/app/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Server/target/classes/school21/spring/sockets/config/ApplicationConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Server/target/classes/school21/spring/sockets/models/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Server/target/classes/school21/spring/sockets/repositories/CrudRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Server/target/classes/school21/spring/sockets/repositories/UsersRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Server/target/classes/school21/spring/sockets/repositories/UsersRepositoryJdbc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Server/target/classes/school21/spring/sockets/server/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Server/target/classes/school21/spring/sockets/services/UsersService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Server/target/classes/school21/spring/sockets/services/UsersServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Server/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Server/target/original-socket-server.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex00/Chat/Server/target/socket-server.jar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2DTXA4lHF6uNs4rlynhb5HyLXgP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/ldoctori/Desktop/Java-piscine-ecole42-school21-/day09/ex01/Chat/Server",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09b52928-7bc4-4cdd-8fee-fc12d5bb59ef" name="Changes" comment="" />
+      <created>1660723905371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660723905371</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
